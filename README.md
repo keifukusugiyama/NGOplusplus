@@ -19,26 +19,26 @@ NGO plus plus is a website for Non-Profit Organizations to post and co-sponsor e
 
 ## Features:
 - Searchable list of events
-![main page top](Screenshots/main1.jpg)
+![main page top](Screenshots/main1.png)
 - Searchable list of Organizations
-![main page bottom](Screenshots/main2.jpg)
+![main page bottom](Screenshots/main2.png)
 - User registration and login
 - Form verificaction and encrypted password
-![login registration](Screenshots/LoginReg.jpg)
+![login registration](Screenshots/LoginReg.png)
 - Register organization
-![Register Organization page 1](Screenshots/RegisterOrg1.jpg)
-![Register Organization page 2](Screenshots/RegisterOrg2.jpg)
-![Register Organization page 3](Screenshots/RegisterOrg3.jpg)
+![Register Organization page 1](Screenshots/RegisterOrg1.png)
+![Register Organization page 2](Screenshots/RegisterOrg2.png)
+![Register Organization page 3](Screenshots/RegisterOrg3.png)
 - View organization details with list of events
-![Organization details](Screenshots/OrgDetails.jpg)
+![Organization details](Screenshots/OrgDetails.png)
 - Add admins for organization
 - Create event 
-![Create event 1](Screenshots/CreateEvent1.jpg)
-![Create event 2](Screenshots/CreateEvent2.jpg)
+![Create event 1](Screenshots/CreateEvent1.png)
+![Create event 2](Screenshots/CreateEvent2.png)
 - Post messages on events 
 - Co-sponsor event
 - View event location on google maps
-![Event details](Screenshots/EventDetails.jpg)
+![Event details](Screenshots/EventDetails.png)
 - User level verification on multiple functionalities
     - Add new organization (logged in)
     - Join as admin (logged in)
